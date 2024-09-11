@@ -10,5 +10,7 @@ public class TestConditon {
         if(country.equals("US")) {
             System.out.println("Main branch push");
         }else System.out.println("Main branch pop");
+
+        if(true) System.out.println("Feature Branch push");
     }
 }
