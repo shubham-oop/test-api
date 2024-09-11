@@ -9,6 +9,6 @@ public class TestConditon {
         } else System.out.println("Not Run Experiment");
         if(country.equals("US")) {
             System.out.println("Main branch push");
-        }
+        }else System.out.println("Main branch pop");
     }
 }
