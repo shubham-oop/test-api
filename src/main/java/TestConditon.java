@@ -12,7 +12,5 @@ public class TestConditon {
         }else System.out.println("Main branch pop");
 
         if(true) System.out.println("Feature Branch push");
-
-        // Rebasing Done
     }
 }
